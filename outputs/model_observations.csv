@@ -1,0 +1,6 @@
+ML Model Name,Observation about model performance
+Support Vector Machine,"Accuracy=0.854, AUC=0.785, Precision=0.405, Recall=0.631, F1=0.493, MCC=0.427. Compare precision and recall to understand the trade-off in identifying customers who subscribed. Refer to the confusion matrix for false positives and false negatives."
+Logistic Regression,"Accuracy=0.830, AUC=0.800, Precision=0.359, Recall=0.645, F1=0.461, MCC=0.393. Compare precision and recall to understand the trade-off in identifying customers who subscribed. Refer to the confusion matrix for false positives and false negatives."
+Naive Bayes,"Accuracy=0.808, AUC=0.776, Precision=0.320, Recall=0.624, F1=0.423, MCC=0.348. Compare precision and recall to understand the trade-off in identifying customers who subscribed. Refer to the confusion matrix for false positives and false negatives."
+KNN,"Accuracy=0.889, AUC=0.741, Precision=0.516, Recall=0.293, F1=0.374, MCC=0.334. Compare precision and recall to understand the trade-off in identifying customers who subscribed. Refer to the confusion matrix for false positives and false negatives."
+Decision Tree,"Accuracy=0.749, AUC=0.710, Precision=0.246, Recall=0.597, F1=0.349, MCC=0.259. Compare precision and recall to understand the trade-off in identifying customers who subscribed. Refer to the confusion matrix for false positives and false negatives."

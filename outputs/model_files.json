@@ -1,0 +1,7 @@
+{
+  "Logistic Regression": "C:\\BiTS\\Sem 2\\ML\\model\\logistic_regression.joblib",
+  "Decision Tree": "C:\\BiTS\\Sem 2\\ML\\model\\decision_tree.joblib",
+  "KNN": "C:\\BiTS\\Sem 2\\ML\\model\\knn.joblib",
+  "Naive Bayes": "C:\\BiTS\\Sem 2\\ML\\model\\naive_bayes.joblib",
+  "Support Vector Machine": "C:\\BiTS\\Sem 2\\ML\\model\\support_vector_machine.joblib"
+}
