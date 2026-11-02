@@ -14,7 +14,7 @@ The objective is to predict whether a bank customer will subscribe to a term dep
 - After duplicate removal: 41176 records.
 
 ## c. GitHub Repository Link
-Add your GitHub repository URL here after creating and uploading the project.
+https://github.com/KarthikKaushikBits/ML_Assignment_2
 
 ## d. Models used and evaluation metrics
 
@@ -35,11 +35,7 @@ Use the table above and the confusion matrices in the notebook to write your own
 The model with the highest F1-score on this run is **Support Vector Machine**. Review its AUC and MCC as well before finalizing your conclusion.
 
 ## Streamlit application
-Run locally with:
-```bash
-streamlit run app.py
-```
-Upload `test_data.csv` to see the evaluation metrics, confusion matrix, classification report, and downloadable predictions.
+https://mlassignment2-zr9znesr54ha9qjnppiv62.streamlit.app/
 
 ## Repository contents
 - `app.py`: Streamlit application.
@@ -48,6 +44,3 @@ Upload `test_data.csv` to see the evaluation metrics, confusion matrix, classifi
 - `test_data.csv`: held-out test data with labels.
 - `model/`: saved fitted model pipelines.
 - `outputs/`: model metrics, observations, and model file list.
-
-## Reproducibility
-The notebook uses `random_state=42` for the train/test split and model configurations.
